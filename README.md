@@ -67,7 +67,7 @@ https://github.com/238x1a0410-harsha/opti-crop
 
 | Role | Team Member |
 |------|-------------|
-| **Team Lead** | **MANCHALA V. VENKATA LAKSHMI PADMAVATHI** |
+| **Team Lead** | **MANCHALA . VENKATA LAKSHMI PADMAVATHI** |
 | Team Member | CHINTHAGUNTA HARSHAVARDHAN |
 | Team Member | D N V A KRISHNAMA CHARYULU |
 | Team Member | VETAPALEM VENKATA GIRI SAI |
