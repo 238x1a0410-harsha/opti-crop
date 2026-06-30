@@ -37,7 +37,7 @@ OptiCrop/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/238x1a0444-paadhu/opticrop_project.git
+git clone https://github.com/238x1a0410-harsha/opti-crop
 cd opticrop_project
 pip install -r requirements.txt
 python app.py
